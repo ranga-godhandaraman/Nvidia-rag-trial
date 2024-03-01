@@ -16,5 +16,5 @@ This repository serves as a portfolio of my journey in mastering the technologie
 ## Acknowledgments
 I would like to express my gratitude to NVIDIA for providing valuable learning resources through the DLI Courses. Special thanks to InfobellIT Solutions for recommending and supporting my participation in this RAG Application trial.
 
-Ranga Bashyam G
+Ranga Bashyam G <br>
 Trainee Engineer (AI)
